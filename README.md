@@ -28,9 +28,18 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Explain what a token is used for.
+
+******a token is an encrypted key that allows access.  It's kinda like the key to your front door   ******
 2. What steps can you take in your web apps to keep your data secure?
+
+******   ******
 3. Describe how web servers work.
+
+******Web servers deliver data to clients (other  servers) by storing and proccesing information    ******
 4. Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+
+******These are listed in this README.md: POST, GET, DELETE, PATCH, PUT   ******
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
@@ -49,7 +58,6 @@ You are expected to be able to answer questions in these areas. Your responses c
 - [ ] **RUN** npm start to get your API up and running on http://localhost:5000. This is the URL you're going to need to use within your React app in order to make AJAX requests for data.
  - [ ] **LOOK** at your client directory and notice it's just a plain ol' React App that we've built using create-react-app.
  cd into client and run npm install to retrieve the client side dependencies.
- - [ ] **RUN** npm start to fire up your React application.
 
 ### Task 2: Project Requirements
 
